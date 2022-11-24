@@ -5,3 +5,5 @@
  Doctor and medicines to the patient. Finally this System prints billing report for each patient.
     
  Topics Covered: OOP, File Handling, ArrayLists
+ 
+ Check the input.txt file for the commands you can use and the output.txt file to see what each command prints!
