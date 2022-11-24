@@ -34,3 +34,7 @@ reports in an output file *Output.txt*
 >>
 >
 ---
+>Uml Diagram:
+>
+>![Blank diagram (1)](https://user-images.githubusercontent.com/110794992/203845769-83cc1e17-3589-4b80-8792-875e25e72d38.png)
+
